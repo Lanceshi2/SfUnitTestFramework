@@ -1,5 +1,8 @@
 # Salesforce Test Data Setup Framework
 
+##Related Blog
+http://sfdcinpractice.com/index.php/2016/11/01/salesforce-unit-test-data-setup-framework/
+
 ##Why a test data setup framework
 Because in always every unit test in Salesforce, we need to prepare the set of data. It is a tedious work to figure out and fill in the mandatory fields for each SObject. 
 
